@@ -1,0 +1,18 @@
+{
+    "name": "wesley0010012/tradutor_genetico",
+    "autoload": {
+        "psr-4": {
+            "Wesley0010012\\TradutorGenetico\\": "src/"
+        }
+    },
+    "description": "Biblioteca de Tradução Genética entre DNA - RNA e RNA para Proteína",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wesley Gabriel Laurindo",
+            "email": "wglaurindo302@gmail.com"
+        }
+    ],
+    "require": {}
+}
